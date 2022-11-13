@@ -1,0 +1,27 @@
+body{
+    background-image: url(../Personal\ portfolio\ website/photo.jpg);
+}
+
+h1{
+    font-size: 2cm;
+    font-weight: 100;
+    color: antiquewhite;
+}
+
+h2{
+    font-size: 1cm;
+    color: antiquewhite;
+}
+
+h3{
+    font-size: 0.8cm;
+    color: white;
+}
+
+p{
+    font-size: 0.85cm;
+    color: darkseagreen;
+}
+ span{
+    color: rgb(1, 82, 0);
+ }
