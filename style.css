@@ -1,5 +1,6 @@
 body{
-    background-image: url(./Photo.JPG);
+    background-color: crimson;
+    background-size: cover;
 }
 
 h1{
